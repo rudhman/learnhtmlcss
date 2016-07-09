@@ -13,8 +13,13 @@
     display: flex;
 }
 
+.title {
+    background-color: #33BEBE;
+}
+
 .screenshot {
     max-width: 460px;
+    margin-right: 23px;
 }
 .description {
     max-width: 705px;
